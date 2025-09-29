@@ -1,5 +1,5 @@
 ## Hi there 👋
-im gay
+
 <!--
 **ApostleDev0/ApostleDev0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
